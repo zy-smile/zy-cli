@@ -10,7 +10,10 @@
 		"zy-cli": "./bin/zy-cli"
 	},
 	"keywords": [],
-	"author": "",
+	"author": {
+		"name": "zysmile",
+		"email": "1272391326@qq.com"
+	},
 	"license": "ISC",
 	"dependencies": {
 		"axios": "^1.6.7",
